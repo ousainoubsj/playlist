@@ -15,3 +15,4 @@ cd yourproject
 
 # Install dependencies (if any)
 npm install
+# Hamburger init
